@@ -1,2 +1,2 @@
 # Algorithm_study
-* BOJ (
+* BOJ (C++)

@@ -4,7 +4,6 @@ using namespace std;
 
 int main(){
 	int score = 100;
-	
 	cin >> score;
 	
 	if (100 >= score, score>=90)

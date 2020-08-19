@@ -15,6 +15,7 @@ int main() {
 	return 0;
 }
 
+
 //cin과 cout를 사용하는 것 보다
 //scanf와 printf를 사용하는 것이 시간상 더 빠르다.
 
